@@ -1,0 +1,26 @@
+.veryperi{
+    color: #6667ab;
+    background-color: #cecff1;
+    
+}
+
+.border-blue{
+    border: 2.5px solid #333467;
+    
+}
+
+.img-100{
+    width:100px;
+    height:100px;
+}
+.img-10{
+    width:100px;
+    height:30px;
+}
+.margin{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.margin01{
+    margin-top: 2.5px;
+}
